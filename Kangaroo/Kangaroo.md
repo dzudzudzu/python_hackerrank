@@ -1,0 +1,1 @@
+Description of problem can be found [here](https://www.hackerrank.com/challenges/kangaroo/problem).
